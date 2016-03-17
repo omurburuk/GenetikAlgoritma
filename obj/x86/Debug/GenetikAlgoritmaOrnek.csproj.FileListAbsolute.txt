@@ -1,0 +1,9 @@
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\bin\Debug\GenetikAlgoritmaOrnek.exe
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\bin\Debug\GenetikAlgoritmaOrnek.pdb
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.Form1.resources
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.Kromozom.resources
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.Properties.Resources.resources
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.csproj.GenerateResource.Cache
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.exe
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.pdb
+C:\Users\Buruk\documents\visual studio 2010\Projects\GenetikAlgoritmaOrnek\GenetikAlgoritmaOrnek\obj\x86\Debug\GenetikAlgoritmaOrnek.csprojResolveAssemblyReference.cache
